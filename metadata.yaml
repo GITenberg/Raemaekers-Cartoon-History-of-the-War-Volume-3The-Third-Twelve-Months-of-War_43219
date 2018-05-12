@@ -1,0 +1,38 @@
+_repo: Raemaekers-Cartoon-History-of-the-War-Volume-3The-Third-Twelve-Months-of-War_43219
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Raemaekers, Louis
+    birthdate: 1869
+    deathdate: 1956
+    gutenberg_agent_id: '4533'
+    url: http://www.gutenberg.org/2009/agents/4533
+    wikipedia: http://en.wikipedia.org/wiki/Louis_Raemaekers
+covers:
+- cover_type: archival
+  image_path: 43219-h/images/i_cover.jpg
+creator:
+  editor:
+    agent_name: Allison, James Murray
+    alias: Allison, J. Murray
+    birthdate: 1877
+    deathdate: 1929
+    gutenberg_agent_id: '36691'
+    url: http://www.gutenberg.org/2009/agents/36691
+description: ''
+gutenberg_issued: '2013-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43219'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Humor'
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Caricatures and cartoons'
+title: 'Raemaekers'' Cartoon History of the War, Volume 3
+
+  The Third Twelve Months of War'
+url: http://www.gutenberg.org/ebooks/43219
